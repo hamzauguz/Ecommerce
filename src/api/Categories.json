@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "image": "https://www.seekpng.com/png/detail/276-2767061_simple-white-shirt-icons-png-t-shirt-png.png",
+    "name": "Fashion"
+  },
+  {
+    "id": 2,
+    "image": "https://cdn-icons-png.flaticon.com/512/3081/3081993.png",
+    "name": "Toys"
+  },
+  {
+    "id": 3,
+    "image": "https://icons-for-free.com/download-icon-soccer+sport+icon-1320195352221279011_512.png",
+    "name": "Sport"
+  },
+  {
+    "id": 4,
+    "image": "https://cdn-icons-png.flaticon.com/512/860/860955.png",
+    "name": "Cosmetic"
+  },
+  {
+    "id": 5,
+    "image": "https://i.pinimg.com/originals/98/82/ec/9882ec514a7646b304d06f8f42a15a0c.png",
+    "name": "Kitchen"
+  },
+  {
+    "id": 6,
+    "image": "https://library.kissclipart.com/20180831/kpe/kissclipart-tent-clipart-campsite-tent-camping-5c4a0a7cdcbbbef2.png",
+    "name": "Camp"
+  },
+  {
+    "id": 7,
+    "image": "https://static.vecteezy.com/system/resources/thumbnails/000/348/534/small/Electronic_Devices__2848_29.jpg",
+    "name": "Watches"
+  },
+  {
+    "id": 8,
+    "image": "https://www.mcicon.com/wp-content/uploads/2021/03/Health-10.jpg",
+    "name": "Health"
+  },
+  {
+    "id": 9,
+    "image": "https://cdn-icons-png.flaticon.com/512/899/899222.png",
+    "name": "Decor"
+  },
+  {
+    "id": 10,
+    "image": "https://cdn-icons-png.flaticon.com/512/427/427584.png",
+    "name": "Garden"
+  },
+  {
+    "id": 11,
+    "image": "https://cdn-icons-png.flaticon.com/512/1946/1946488.png",
+    "name": "Home"
+  },
+  {
+    "id": 12,
+    "image": "https://cdn4.iconfinder.com/data/icons/hats-caps-essentials/48/v-01-512.png",
+    "name": "Hats"
+  },
+  {
+    "id": 13,
+    "image": "https://cdn-icons-png.flaticon.com/512/669/669884.png",
+    "name": "Music"
+  },
+  {
+    "id": 14,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Noun_Project_tools_icon_943586_cc.svg/1024px-Noun_Project_tools_icon_943586_cc.svg.png",
+    "name": "Tools"
+  },
+  {
+    "id": 15,
+    "image": "https://e7.pngegg.com/pngimages/483/574/png-clipart-computer-icons-casino-hobby-icon-sport-black-thumbnail.png",
+    "name": "Hobby"
+  }
+]

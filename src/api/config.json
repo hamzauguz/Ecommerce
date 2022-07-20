@@ -1,0 +1,34 @@
+{
+  "cartcontainer": {
+    "size": "Size: ",
+    "promo_code": "Promo Code",
+    "apply": "Apply",
+    "subtotal": "Subtotal",
+    "dolar": "$",
+    "dolarzero": "$0",
+    "total": "Total",
+    "checkout": "Checkout",
+    "delivery": "Delivery Fee",
+    "color": "Color"
+  },
+  "productdetail": {
+    "dolar": "$",
+    "color": "Color",
+    "size": "Size",
+    "addtocart": "Add to Cart",
+    "details": "Details"
+  },
+  "bestselling": {
+    "dolar": "$",
+    "best_selling": "Best Selling",
+    "see_all": "See All"
+  },
+  "flashsale": {
+    "flash_sale": "Flash Sale",
+    "timer": "Timer"
+  },
+  "scrollview": {
+    "see_all": "See All",
+    "categories": "Categories"
+  }
+}
