@@ -1,0 +1,4 @@
+#Tue Jul 05 13:18:34 TRT 2022
+base.0=/Users/furkanoguz/Desktop/Kroppaecommerce-main/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

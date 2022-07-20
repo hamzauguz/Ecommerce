@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/logoexample3.iml" filepath="$PROJECT_DIR$/.idea/modules/logoexample3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/logoexample3.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/logoexample3.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2061838870/logoexample3.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/2061838870/logoexample3.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-923785343/logoexample3.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-923785343/logoexample3.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/898107899/logoexample3.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/898107899/logoexample3.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1951884202/logoexample3.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1951884202/logoexample3.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1348563010/logoexample3.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1348563010/logoexample3.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1809446923/logoexample3.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-1809446923/logoexample3.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1657630572/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-1657630572/react-native-gradle-plugin.iml" />
+    </modules>
+  </component>
+</project>
